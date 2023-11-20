@@ -1,0 +1,26 @@
+{
+  "name": "Erik Beck",
+  "age": 53,
+  "address": {
+    "street": "Iddar Lane",
+    "city": "Zaniuca",
+    "state": "OK",
+    "zip": "89297"
+  },
+  "contact": {
+    "phone": "(746) 266-4442",
+    "servicePhone": "800893142"
+  },
+  "birthday": "1992-07-16T09:53:53.133Z",
+  "ip": "241.146.13.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Onzu anojuh mekomvin fok fuur keurefaw ibono liltirhil fitfezug suceb mo kafuas tizet. Jodfoh mi hepma uwu luuzowem omopoto faovgi huwerce cop hotke gangofbur cas as hu asihap tic jolojov ravliz. Ruzujac ikuab megaseop sebwarew ceibuwu vo hiw vesvul boknu peaviga mik ejifaphip dud he bomculbi. Ja vet momdonozo matahal ulakomaci wewur tibu totde zov ruamoz mewume jokda jugni sojuv hiuse nutared gatikuibe. Urkogkov doc puswub biguk ewmipidu hocri cirguf juwosiap calboiku zorsalles efpo si cibioto emoru ba me.",
+    "bio": "Bawiroze ej ladunog ta noltipa fiz ici vewih hizti petpa horwum ti megwe rivdob tugbok kimafa. Ut potobuj utapib danrojgi bacgebzam pa detan jes doswu bohasva go konisuzo kuno. Taaw nahciem dogguz tafaf nibre nijo bofro liciim naiw kog rivu cicmi cucekvi deug kitwu turhi hugar dufte."
+  },
+  "apiKey": "1909fbc481c649ce26902abb13a3dcf71b6ab417fbcff9f473360210f6ae2810",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
