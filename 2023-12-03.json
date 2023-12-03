@@ -1,0 +1,26 @@
+{
+  "name": "Sylvia Hubbard",
+  "age": 23,
+  "address": {
+    "street": "Jelu Point",
+    "city": "Tunepjij",
+    "state": "CT",
+    "zip": "92088"
+  },
+  "contact": {
+    "phone": "(557) 568-5267",
+    "servicePhone": "800179198"
+  },
+  "birthday": "1996-10-09T14:42:09.176Z",
+  "ip": "245.189.221.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Reaboto oz gel toblejo er va puguwazu nonah daban fecen giak uldidmi amak. Fuozebon hu gacok nip ojair okpuj izu migof bapnuvij de jonzanu kumun arolero rojze tewec di tiigi. Nusnofiv honude vilalja vew ta wo va tab iwifuh ebadcu le zihattiz domaloati azoumo fahifu cies gobu.",
+    "bio": "Bidicul git niksud onbej ul beradave pidu uwi nen hihocwuc wufo walup otkupi ajewaiw fe caz. Fiwujo kapna ot bu eji zifve butur anjicse idkam wejaj bodpe luz le de tirsutoh huk vet. Zalneula kusugval mafidi poz konveaj bohgu jos ju felfo encicvek mucro letotju ap le cirga daser hovedeji."
+  },
+  "apiKey": "5b071d74dc1726a70dd48fe0386f14517986e9c37886f2b36355844abb0f4bec",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
