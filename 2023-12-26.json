@@ -1,0 +1,26 @@
+{
+  "name": "Edith Osborne",
+  "age": 54,
+  "address": {
+    "street": "Fase Circle",
+    "city": "Kipuffuj",
+    "state": "WV",
+    "zip": "55365"
+  },
+  "contact": {
+    "phone": "(920) 668-7092",
+    "servicePhone": "800565696"
+  },
+  "birthday": "2002-09-13T09:16:56.600Z",
+  "ip": "144.39.125.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Watzow vas lo sureti lewac ogzudbog luchuro ucopati cij najku okguv kim sokuf abuwo kit ropekfaz. Govputju vahjo nin zukzi kut cetu ulosul ceniwova ujkenzo ab wu wub daapa sejke awrajmoh suuluvo. Rezgopko babe es rapasar zumrik feakfe gabov suzbajves dopu gidmamoj domira jal.",
+    "bio": "Hosnifgen omehutbi oclum souk nede vaeffo nuruki kijpuh icopi poghin ja kic jacasu zoruv uzcel. Behrovmal vub wik rudiz ukworgus dihakeg ajoahene omzuli azuwokic lo rik winterhir kuwcunnu de pedvarmir. Vuobe pudocawe pipad tat nicu benes unude ke vocikta gat gabev ec biigfi wesipmi wahzak sudim."
+  },
+  "apiKey": "11e0b1b3e44df201bdb33e45304803a00a2016ef6c65ffcb66cc52a95d53ee5d",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
