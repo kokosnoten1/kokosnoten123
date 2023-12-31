@@ -1,0 +1,26 @@
+{
+  "name": "John Bryant",
+  "age": 38,
+  "address": {
+    "street": "Puzra Drive",
+    "city": "Kohufu",
+    "state": "DC",
+    "zip": "69438"
+  },
+  "contact": {
+    "phone": "(200) 726-2459",
+    "servicePhone": "800169399"
+  },
+  "birthday": "1971-12-29T16:36:27.987Z",
+  "ip": "252.251.223.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Folihhol umat do we mu kefa zitko kutfeg luam vujin jisavi li ladbo bawbi coto wum ifiim ririv. Figavcop fimu evu ged romego ok lat zel rakvavdo boov pakevha vo. Ma nidife tolol goanja citsih furtalog avgev mi mij erira ismi omcepte sed ageked. Hohif berreer fejfih mikilikiz pamed eselu zobut da mubine tubop zi jo koful uk carcuc pigedse.",
+    "bio": "Seru lowewzep ceranu uhuhitun zero kaw jiha hivwa jomze nu titvofbo bowpanzer fibisgu co. He caezo ve bogo ce wub ro nuf nuow tepag wokevi zidpoku pokimet lusegi. Osza fi obi siuh jepal zud hezmed nu wazi cokawbic toecpeb ofge bebnos bogib. Amudad ra lezgigfu nadile im dejibu hu cedsosav vi orul rimvid onpewviv semniwadi ivete vafod tambejib tuv."
+  },
+  "apiKey": "546793939a424fb029f8987a76a315da869c87a229ca861cbb08b8a09a666f05",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
