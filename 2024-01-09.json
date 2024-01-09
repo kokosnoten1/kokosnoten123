@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Myers",
+  "age": 49,
+  "address": {
+    "street": "Fidol Parkway",
+    "city": "Izacovce",
+    "state": "MD",
+    "zip": "83086"
+  },
+  "contact": {
+    "phone": "(664) 574-9411",
+    "servicePhone": "800456338"
+  },
+  "birthday": "1991-06-01T03:54:22.675Z",
+  "ip": "92.98.108.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Ub pasiguzog zobaz liikce in gev cunnatga nedevni ta zi waufcal lomamid. Zedogugi su avuminrer ditusofu novo ike ancud kicaktud cakses or de lope penoizu. Lofokmu kez om tajobauze nu sop paceh or deefojo nommu hov in ka bipewku ebiinew uhza.",
+    "bio": "Azabuhab kupamni utu sepiho efzirnim zodo awo zansa uspeb atjufab co kidzum ke parenco zu iri. Lusuc rem varo iz it mitsug mepguruv wekurra je wafan covhogino bigob wa dejodaj hece gatu oho. Po isca jalufnig usuruk wordawvi okbeju gingafod mormerek sizmimos gotesu fog fabi jofcomcel tugmiwci zopuc guziumu den."
+  },
+  "apiKey": "d453bd886c27951275957e85e13efc8a30655ab9405bc9b789822b223c01eca6",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
