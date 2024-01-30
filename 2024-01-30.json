@@ -1,0 +1,26 @@
+{
+  "name": "Janie Boyd",
+  "age": 29,
+  "address": {
+    "street": "Uzju Manor",
+    "city": "Zolduga",
+    "state": "NY",
+    "zip": "57989"
+  },
+  "contact": {
+    "phone": "(287) 811-7689",
+    "servicePhone": "800525737"
+  },
+  "birthday": "1985-10-24T15:02:50.753Z",
+  "ip": "68.41.226.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Ewawa cugedi haffir igu oc jajcecjop jet fa so illu gaut sawa punbahzo. Inzon figka bad jamgipab agebono cibobwu seze kol zuta wup ve zimampe puv igvu. Horiwi rikef upa ka pofkuban ce sadle hujunlej ronohla otebegis aze salbiw cisjos je emowa wofgi zudkaru vujjuga. Vuktojah rerutfum tuf omfic omuwi wazu muwmi ciha vedwamim vacun peg aciifa enwim zi gibes efle wot zu.",
+    "bio": "Feoce jurathal mocigzol sethi onoju uva lep ja latifev jaih ujetapvo cawja boszenu eci boankoj. Tikdul ibaf fiakefu jutveceba wefuzo bisulvi meuszi cobcan gevagbeh rog jaj wat be ta. Dorloja ca el sumoozu vow wacij gufva durareuc me mebodig caljurug nimsi vejvowir."
+  },
+  "apiKey": "de27aa2d15be37d2d2c2588b4d6abca23e721f06f701dac36868024e36c38943",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
