@@ -1,0 +1,26 @@
+{
+  "name": "Francis Brewer",
+  "age": 19,
+  "address": {
+    "street": "Cujo Trail",
+    "city": "Hegejte",
+    "state": "AL",
+    "zip": "30241"
+  },
+  "contact": {
+    "phone": "(858) 615-6485",
+    "servicePhone": "800752594"
+  },
+  "birthday": "2000-05-03T05:20:07.071Z",
+  "ip": "233.121.128.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Ken keriter bodgoko mog kevgu wujutate bimno rigij juadke jebipi guwu zouw iwiar vare rip rifevaijo. Ujzo gojelebi ohpivo wufabma micuzfub vekfozuz vucij am diflis tegappu eredag ruzbo ukaos. Uhzeuja nu sifpowjo be odi us coznatmev nemutcuf onipiz igfug zuwfevte koga nideug jahcul cociku jicbo fok repjo.",
+    "bio": "Pepbob wawhira ra digil jewzaof onajuweka wupeisa oj usa tonud af havem fuc loinulec veugu cu. Bu egzo fa setewoni avnow ici dip ewi uwpi zolmigig zarun zolzuhim. Utjem toffa rimdof wewreb avtaler ihalo ep buvon ibu ca avocibe nipjanlul gipafsok lu dejahek guhe."
+  },
+  "apiKey": "0d7b449a5edea2b380494fc3c1a8ab25f6c492a6cc9acfd8cfa83d7d6e9efd3f",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
