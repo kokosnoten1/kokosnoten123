@@ -1,0 +1,26 @@
+{
+  "name": "Ola Tran",
+  "age": 20,
+  "address": {
+    "street": "Wobvo Lane",
+    "city": "Bezurihi",
+    "state": "MN",
+    "zip": "53582"
+  },
+  "contact": {
+    "phone": "(788) 874-1190",
+    "servicePhone": "800695667"
+  },
+  "birthday": "1997-03-21T20:38:02.744Z",
+  "ip": "157.201.103.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Ma mimge potfucho nappemmat ki golgodo na zi hezinut itnaat dib segoume ujael. Dekgo zi dazkifbi opo toraosi mikobe howteric urefe kuddop saevo lusin fitevgo nofpog onuda wijala fev vimin. Wes kucic nob juisji udafad weliifo cumibrip zephafuce bepibfi dobi juzbema nuki fav hoguvzod tawiik ewoes mejob ero. Deiju vided efo kicareita vav esmoplob duhze dajfojmo ve buhso nodu funikvud hew de eja ofov.",
+    "bio": "Ar refnoj cite mo lazu uhfa geog wuv jovdok bacaghoz nib wafikam adonidpi uv ni. Uwzadfol cogso juw jufkot bucewoume pi ti nowlu hozvudiw pa wahopof vaspasoda. Imo juhtaldig zaka ozuusu kogiguh butu mozloag vumemnu oke boc kes lo nagfume pef tes jik ki re."
+  },
+  "apiKey": "308abb13393f5af2f9259b1229d6ee56f7f413e94ac083260a8b7c63895a3316",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
