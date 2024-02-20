@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Walters",
+  "age": 25,
+  "address": {
+    "street": "Horan Avenue",
+    "city": "Poidikic",
+    "state": "IA",
+    "zip": "85402"
+  },
+  "contact": {
+    "phone": "(304) 878-3187",
+    "servicePhone": "800161142"
+  },
+  "birthday": "1990-05-22T06:23:34.768Z",
+  "ip": "49.173.24.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba soomo ez nekiw nadgo zare guhtozru vuazzoh fak vojhupef ce edosa egtuhoc jobcapsi me aji azso. Ku korta hos sa sejveknez culka eruterhul semew nebko ju vitmev bupu. Ag masta kek izwead do diaruaro zukmagze cinib bul buntofdaw tiuvagez huvze li evi.",
+    "bio": "Uvikaf kito biwgizek re siple lop wasisih duvwubuju guzod oceza sigked na. Ir sicok isvulju wotsiszu mer dag pe ebivi rahepwid hepic hankoaz nak tune tawva gur vebuvmo ivosafroc tizvi. Ipowisuf va gobuhnid kudluscu ehvasgis zofa lob pece pocza hi jih nowe vimpiv piwbeg. Goajva ivleke ohu gikecele wu eja rotaj retpena jezta rajapsaw geki nikito cubbo menuttip kuazu utwej om jabcun. Zi ahusiw pobme atuhe setjilbor riw owukuw vupetnej houna ru wiwzic ikcug kulkuhi vazosmid pu. Sejo pa la ovite cezum neoza igipa duwhi eg taodpo foz omujefna egepaknav ej voziro sezum. Eneeko bufwetbes mosuhez mov op iso fil uwehak epiavmek sihvihat jirfidad buhpatwe kegu ivse en ha nehucrup uvo."
+  },
+  "apiKey": "e715232270f52a07727a756dc1fc85b2a96077246ac7fed0a4b8e7793bb769ec",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
