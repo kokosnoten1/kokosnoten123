@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Massey",
+  "age": 19,
+  "address": {
+    "street": "Cupcis Way",
+    "city": "Gafforaj",
+    "state": "WA",
+    "zip": "62896"
+  },
+  "contact": {
+    "phone": "(307) 238-3296",
+    "servicePhone": "800948557"
+  },
+  "birthday": "1999-04-25T15:02:10.720Z",
+  "ip": "164.93.32.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuudazu oneti hev iz ma zeowe godpisoh no ohhak alu opwuw nafup ge ogol wuso. Ulo dakwu hovura enifem hozlupid ba pec kuzsujowa omfev guhpar cifubuco vunah. Herra giga ros ja sa ajvog kit haonfan epli deceneahu kuhibbu do.",
+    "bio": "Ka ag evu hebusa ki hegi vazo oweew ri kuzsezo idsobri iv ike laod nigbek uzafo aviluse reiv. Ce aco jutjoj oz te mumoh re zed epi he zej uvu gawtapow dedaj. Vibgincir oh viv faachan samsize remejor atocobef inusokas kavga ceflassun vedkize kur. Pih cec bed nagudlol ilsoluw moltu dawje laguj uvhactar jebuge paezi fojtegnis. Erusiv zim ek rosebheg leduzdog bennagkav ce emje ziduk feh gowi ri ulipujdol fabi kafon ufewi goctoc vope. Jelhoc lid izoazol pu nogelil du irsav okutozeg he okhadcal live esseg jup. Zonkuri ced caw mu fod ohir nikapzu pe agdekjik azje zibwoszuh rug kogifufu gabaluti ehula vuf ob."
+  },
+  "apiKey": "016817f98755bc2f456cc8ed1adf2a6fa7392850cdfeaa9ab88a86b865cd2e2a",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
