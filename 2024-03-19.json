@@ -1,0 +1,26 @@
+{
+  "name": "Bernice Dennis",
+  "age": 22,
+  "address": {
+    "street": "Fuzo Road",
+    "city": "Cavtobfi",
+    "state": "IN",
+    "zip": "06007"
+  },
+  "contact": {
+    "phone": "(607) 226-7916",
+    "servicePhone": "800776135"
+  },
+  "birthday": "1978-12-23T11:55:12.208Z",
+  "ip": "218.216.41.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Gemil zer gufodo lar mo lu jateski ca belun mus zum bure kurej on feri ce tuhsu. Homac fupehi tu murun rivatan si aslala vawlisgov ku oka gul vom. Cu liatner vaw bemot ulisa odnackih robazhi ne tatro nilolap pehud unop. Ce fohecju huhgolis me boz foh welo tiwgulu umi vijihdat ceobtu hufpih zuj. Fuzokho ozzururo medepep hobe caki wukweli vu wav hobuslih gebheg vivu kekso sum. Evdi lewseliw ozuramdag zeokpo saapu ki uzoohon bi bi uh ni wetfab juoga memep.",
+    "bio": "Ici rodrak rannefu ho udjaviri hi uzunam ew nuknac acumop eh rehti zaure elmuveh giruffi tenicin pe uwzowo. Wi et gul il owu dom ekke tul fuhanjo ac pingurih niel ku. Vav numkifu mohranke rife tahuv otwiilu avu sur ewakfi ozfut bez beute ufredmut."
+  },
+  "apiKey": "652ae11234deaaa298b99ac1dd8b001a7fdd14d7cc5d395cd9fcf842f1b3ff82",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
