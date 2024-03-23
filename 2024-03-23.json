@@ -1,0 +1,26 @@
+{
+  "name": "Adelaide Sims",
+  "age": 60,
+  "address": {
+    "street": "Dioce Heights",
+    "city": "Vacagdu",
+    "state": "NV",
+    "zip": "72320"
+  },
+  "contact": {
+    "phone": "(857) 334-9701",
+    "servicePhone": "800176826"
+  },
+  "birthday": "1974-11-14T09:55:09.686Z",
+  "ip": "229.106.181.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Mifte row ih emefu fedhoir jufulhil ze detabba mohadti acerri wimgunab katril. Tog unfac muebiteh becetobo ap hecahu soemebeg sukmo kobe iji opucasa najet kensimu bejjo fuidepu poumoeri nahi. Da hi nusa sona mikciuk ri sosohet helow ateco rewec nojnej kafnizew bu eckuc.",
+    "bio": "Paf mefkek et hor apfuhij fepsokva ecidipkij sodpeis ojzol zozhejza suhevzed tihpine ruhud be ba jeabwi. Jabfumo ceswi cawkipnes wenwaudo ako faf ba wi idole baoteij elozez neeki pu so pir lek. Ticokan co lalili gotpi fepgim vuato ozojen sufvurzu iv tis igu kabsob gihiduku dugak. Cah vidpo ged tulavise bergu kafelfiw loz ta hubeka lomujub kupasfe waz akli fusuj vo vem mierabir ogozoj. Uveavitef bepgo se me fa fettud ij herafji jingoap kohneda anefiv zilare bu nalub. Souz licriitu akip lebucoze lifruw lajgi jefuruv ma fa hoveco zuj hejo etilu nace veak. Gijmevra zor vukadem moemubu zif isju ek zatnugik iwmuwve za raul kon."
+  },
+  "apiKey": "231ebd84e101688d8bc3b24943bdc40f1af6d24aa8768fc5900a57e0c237db12",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
