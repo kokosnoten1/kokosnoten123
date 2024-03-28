@@ -1,0 +1,26 @@
+{
+  "name": "Adeline Burgess",
+  "age": 38,
+  "address": {
+    "street": "Majfim Mill",
+    "city": "Bulfelip",
+    "state": "NH",
+    "zip": "92259"
+  },
+  "contact": {
+    "phone": "(984) 955-7649",
+    "servicePhone": "800316399"
+  },
+  "birthday": "1974-05-29T15:50:01.311Z",
+  "ip": "226.195.81.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Zoh nivaor ruf gewih hid cu wi nizsiwi mekvi jenca nuvil car uf puwsab jeuwigec. Tetjo hobvijsot ran ma ni lopehfi gulroad atefe vew lo odnon piwuzeb lomlirew. Ok luw ri motku tuaropop walezem juah cetuk bad usobipuk nojohe ju get pid geineedi jetor setan engilfes.",
+    "bio": "Dopbokid rupuf gu lufeheca okwegnu zijpoca uta vuv reivdot soriak wavgeek cijnoos buze fu igre iflikad. Zevice geca rigziwaw zim boviwa in usudowri bomit ijpi kuanu sucum za iwira urwawde omiira riij zo pokev. Lisgeza be hogbor egegod lagudma guson nalhasoj zirirgu zerojiva kimehulo zonap gifonom."
+  },
+  "apiKey": "6176925a76e8ec012f1d458a94687ceebde55a3592d23949ddbeeb014ff621b7",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
